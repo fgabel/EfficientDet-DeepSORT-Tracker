@@ -1,0 +1,1 @@
+-c 7 --batch_size 4 --num_workers 0 --lr 1e-4 --num_epochs 200 --load_weights /home/sneey/Yet-Another-EfficientDet-Pytorch/logs/waymo/efficientdet-d7_188_27000.pth --data_path /media/sneey/Seagate/ --val_path /media/sneey/Seagate/Validation --project waymo

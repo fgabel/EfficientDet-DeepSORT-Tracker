@@ -1,0 +1,27 @@
+# Specification of submission format.
+
+task: DETECTION_2D
+account_name: "chipsspectre@gmail.com"
+# Unique method name. Max 25 chars.
+unique_method_name: "EmptyTestMethod"
+
+authors: "Jens Settelmeier"
+authors: "Frank Gabel"
+
+affiliation: "None."
+description: "empty method."
+
+method_link: "empty method."
+
+# See submission.proto for allowed types.
+sensor_type: CAMERA_LIDAR_ALL
+
+number_past_frames_exclude_current: 0
+number_future_frames_exclude_current: 0
+
+object_types: TYPE_VEHICLE
+object_types: TYPE_PEDESTRIAN
+object_types: TYPE_CYCLIST
+
+# Inference latency in seconds.
+latency_second: 0 # the method is empty...
