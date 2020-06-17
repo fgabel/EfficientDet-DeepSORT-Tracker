@@ -6,7 +6,7 @@
 >
 > <sup>1</sup> Heidelberg University
 >
-> <sup>2</sup> Stockholm University
+> <sup>2</sup> KTH Royal Institute of Technology, Stockholm
 >
 >
 >
